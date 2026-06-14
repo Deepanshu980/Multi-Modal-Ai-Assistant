@@ -1,0 +1,22 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "edge-tts>=7.2.8",
+    "fastapi>=0.136.3",
+    "faster-whisper>=1.2.1",
+    "google-genai>=2.8.0",
+    "google-generativeai>=0.8.6",
+    "gtts>=2.5.4",
+    "numpy>=2.4.6",
+    "playsound==1.2.2",
+    "python-dotenv>=1.2.2",
+    "python-multipart>=0.0.32",
+    "pyttsx3>=2.99",
+    "scipy>=1.17.1",
+    "sounddevice>=0.5.5",
+    "uvicorn>=0.49.0",
+]
