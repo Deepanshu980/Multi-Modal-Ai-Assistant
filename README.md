@@ -262,4 +262,4 @@ AI/ML Engineer | Full-Stack Developer
 Passionate about building AI-powered products, intelligent voice assistants, machine learning systems, and scalable full-stack applications.
 
 - GitHub: https://github.com/Deepanshu980
-- LinkedIn: Add your LinkedIn profile here
+
