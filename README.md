@@ -20,6 +20,10 @@ The system combines Speech-to-Text (STT), Large Language Models (LLMs), and Text
 
 ---
 
+## 🎥 Demo
+
+![Context Aware Voice Agent Demo](assets/demo.gif)
+
 ## ✨ Features
 
 ### 🎤 Real-Time Voice Interaction
